@@ -8,7 +8,7 @@ I'm Jordy Vega, Full Stack web developer. He spends most of his time coding proj
 
 <!-- TODO: Add last video link -->
 
-- 🔭 Currently I do not work with medication to reinforce my knowledge
+- 🔭 Currently I do not work, I only study to reinforce my knowledge in software development.
     -: computer: Most used line of code `git commit -m" Initial Commit "`
 - 🤔 I am looking for a company that gives the opportunity to grow professionally and   contribute to the work team.
 - 📫 How to contact me: jordyvega15@gmail.com.
