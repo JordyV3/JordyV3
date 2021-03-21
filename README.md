@@ -24,7 +24,7 @@ I'm Jordy Vega, Full Stack web developer. He spends most of his time coding proj
 
 
 #### Bizness
-- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
+- :paperclip: [My Resume/CV]([resume v1.0.pdf](https://github.com/JordyV3/JordyV3/files/6176757/resume.v1.0.pdf))
 - :email: jordyvega15@gmail.com
 
 <details>
