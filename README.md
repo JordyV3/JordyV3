@@ -8,8 +8,8 @@ I'm Jordy Vega, Full Stack web developer. He spends most of his time coding proj
 
 <!-- TODO: Add last video link -->
 
-- 🔭 Currently I do not work, I only study to reinforce my knowledge in software development.
-- 🤔 I am looking for a company that gives the opportunity to grow professionally and   contribute to the work team.
+- 🔭 I currently work at Claro CenAm, and I study to reinforce my knowledge in software development.
+- 🤔 I always seek to grow professionally and develop my skills as a developer and systems analyst.
 - 📫 How to contact me: jordyvega15@gmail.com.
 - 😄 Pronouns: Coder, Jve3, Duckling.
 - ⚡ Fun fact: I play and I like walks.
