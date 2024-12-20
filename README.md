@@ -1,56 +1,62 @@
-## Hi I'm Jordy <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+# 💻 Jordy Vega - Backend Software Engineer
 
-I'm Jordy Vega, Full Stack web developer. He spends most of his time coding projects and having a good time.
+🚀 **Desarrollador Backend especializado en Java y Spring Boot**, con experiencia en arquitecturas de microservicios, bases de datos, DevOps y desarrollo de APIs REST. Apasionado por la tecnología y siempre enfocado en construir soluciones escalables y de alto rendimiento.
 
-:mailbox: Reach me out!
+---
 
-[![Mail Badge](https://img.shields.io/badge/-Jordy_Vega-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCaxgyGB1VUKn6esKaQzc8bg) [![Linkedin Badge](https://img.shields.io/badge/-jordyvega-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordy-vega-250a57173/) [![Mail Badge](https://img.shields.io/badge/-@jordyvega3-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/jordyvega3/) [![Mail Badge](https://img.shields.io/badge/-jordyvega15-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:jordyvega15@gmail.com)
+## 🛠️ **Tecnologías y Herramientas**
 
-<!-- TODO: Add last video link -->
+**Lenguajes:** Java, Python, PHP, JavaScript (React), HTML, CSS  
+**Frameworks:** Spring Boot, Flask, Laravel  
+**Bases de Datos:** Oracle, MongoDB, PostgreSQL, MySQL  
+**DevOps:** Docker, Kubernetes, Azure DevOps  
+**Sistemas Operativos:** Linux, macOS, Windows
 
-- 🔭 I currently work at Claro CenAm, and I study to reinforce my knowledge in software development.
-- 🤔 I always seek to grow professionally and develop my skills as a developer and systems analyst.
-- 📫 How to contact me: jordyvega15@gmail.com.
-- 😄 Pronouns: Coder, Jve3, Duckling.
-- ⚡ Fun fact: I play and I like walks.
+---
 
-#### Top Technologies
+## 📚 **Experiencia Profesional**
 
-<!-- TODO: Make technologies links takes you to repositories -->
+### **Backend Engineer - SIGEL (2020 - Presente)**
+Desarrollo de microservicios REST para portal corporativo (**Centroamérica**). Integración de bases de datos y gestión de CI/CD en Azure DevOps.
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
+### **Software Engineer - Thuban semantic technologies - UC3M (2024 - Parcial)**
+Optimización de un chatbot híbrido con bases de datos vectoriales y grafos (**España**). Integración de modelos LLM y bases de datos.
 
+### **Backend Engineer - Sector Bancario (2024 - Parcial)**
+Desarrollo de microservicios documentados con OpenAPI y basados en Java/Spring Boot (**Costa Rica - Centroamérica**). Consultas y optimización en bases de datos Oracle.
 
+### **Colaborador en Ultralytics (2022 - Actualidad)**
+Contribución al desarrollo de soluciones basadas en **Modelos de Lenguaje Extenso (LLM)**. Participación en proyectos avanzados relacionados con procesamiento de lenguaje natural e inteligencia artificial aplicada.
 
-#### Bizness
-- :paperclip: [My Resume/CV](https://github.com/JordyV3/JordyV3/files/7197503/Jordy-Vega-resumen.v1.1.pdf)
-- :paperclip: [Test_Competencias.pdf](https://github.com/JordyV3/JordyV3/files/6813019/Test_Competencias.pdf)
-- :email: jordyvega15@gmail.com
+### **Desarrollador Freelance (2020 - Presente)**
+Proyectos de desarrollo web, sistemas de facturación y soluciones personalizadas para empresas.
 
-<details>
-<summary>
-  More stuff about me
-</summary>
+---
 
-<br >
-I love I gained more knowledge than I currently have and that is why I hope to acquire it through my timeline in the world of development.
+## 🎓 **Formación Académica**
 
-#### Who I am?
+**Ingeniería en Sistemas Computacionales** - Universidad Mariano Gálvez (2018 - 2023)  
+**Maestría en Banca Electrónica y Computacional** - Universidad Mariano Gálvez (2024 - Presente)
 
-I consider myself a guy fond of programming who wants to fill himself with application development knowledge and contribute a grain of sand to the developer community.
-#### Coding Stats
+---
 
-<!--START_SECTION:waka-->
-```text
-JavaScript   10 hrs 41 mins  ████████████████████▓░░░░   82.29 % 
-HTML         1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-Markdown     1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-```
-<!--END_SECTION:waka-->
+## 📜 **Certificaciones y Cursos**
 
-#### Github Stats
+- **Oracle Certified Professional, Java SE 8 Programmer**
+- **Red Hat Certified Enterprise Microservices Developer (EX283)**
+- **Certified Kubernetes Application Developer (CKAD)**
+- **Docker Certified Associate (DCA)**
+- **Google AI & LLMs | Generative AI with LLMs**
 
-![JordyV3's github stats](https://github-readme-stats.vercel.app/api?username=JordyV3&count_private=true&theme=tokyonight&hide=contribs,prs)
+---
+
+## 📬 **Contacto**
+
+📧 **Email:** jordyvega15@gmail.com
+💼 **LinkedIn:** [www.linkedin.com/in/jordy-vega-250a57173](#)  
+📂 **Portafolio:** [jordyvega.dev](#)
+
+---
+
+> **"Desarrollar software no es solo escribir código, es crear soluciones que transformen ideas en realidades."**
 
