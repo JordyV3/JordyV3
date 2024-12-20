@@ -22,7 +22,7 @@ Desarrollo de microservicios REST para portal corporativo (**Centroamérica**). 
 ### **Software Engineer - Thuban semantic technologies - UC3M (2024 - Parcial)**
 Optimización de un chatbot híbrido con bases de datos vectoriales y grafos (**España**). Integración de modelos LLM y bases de datos.
 
-### **Backend Engineer - Sector Bancario (2024 - Parcial)**
+### **Backend Engineer - Sector Bancario (2024 - Freelance Parcial)**
 Desarrollo de microservicios documentados con OpenAPI y basados en Java/Spring Boot (**Costa Rica - Centroamérica**). Consultas y optimización en bases de datos Oracle.
 
 ### **Colaborador en Ultralytics (2022 - Actualidad)**
